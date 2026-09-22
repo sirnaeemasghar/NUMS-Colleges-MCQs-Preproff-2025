@@ -1,0 +1,2492 @@
+{
+  "sourcePdf": "NUMS BLOCK 4 PREPROF MCQS 2025.pdf",
+  "pagesProcessed": 92,
+  "totalColleges": 9,
+  "totalMcqs": 385,
+  "bySubject": {
+    "Anatomy": 181,
+    "Physiology": 118,
+    "Biochemistry": 86
+  },
+  "answersConfirmed": 35,
+  "answersCorrected": 4,
+  "needsReview": 346,
+  "corrections": [
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "24",
+      "sourcePage": 14,
+      "sourceMarkedAnswer": "B",
+      "verifiedCorrectAnswer": "A",
+      "reason": "The cervical squamocolumnar junction lies at or near the external os in classic descriptions; its precise location changes with age and hormones, but the internal os is not its usual site.",
+      "verificationStatus": "corrected",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK568392/"
+      ]
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "19",
+      "sourcePage": 24,
+      "sourceMarkedAnswer": "B",
+      "verifiedCorrectAnswer": "A",
+      "reason": "Gallstones commonly erode through a cholecystoduodenal fistula because the duodenum is adjacent to the gallbladder; colonic fistulas are less common.",
+      "verificationStatus": "corrected",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK430738/"
+      ]
+    },
+    {
+      "college": "WMC",
+      "subject": "Anatomy",
+      "questionNumber": "3",
+      "sourcePage": 28,
+      "sourceMarkedAnswer": "A",
+      "verifiedCorrectAnswer": "B",
+      "reason": "The most common uterine position is anteverted and anteflexed, not retroflexed.",
+      "verificationStatus": "corrected",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK557575/"
+      ]
+    },
+    {
+      "college": "WMC",
+      "subject": "Anatomy",
+      "questionNumber": "9",
+      "sourcePage": 30,
+      "sourceMarkedAnswer": "C",
+      "verifiedCorrectAnswer": "B",
+      "reason": "The cystic duct is a border of the hepatocystic triangle; the cystic artery is a structure within it.",
+      "verificationStatus": "corrected",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK459246/"
+      ]
+    }
+  ],
+  "reviewItems": [
+    {
+      "college": "AMC",
+      "subject": "Anatomy",
+      "questionNumber": "2",
+      "sourcePage": 1,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Anatomy",
+      "questionNumber": "6",
+      "sourcePage": 2,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Anatomy",
+      "questionNumber": "7",
+      "sourcePage": 2,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Anatomy",
+      "questionNumber": "8",
+      "sourcePage": 2,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Anatomy",
+      "questionNumber": "12",
+      "sourcePage": 3,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "4",
+      "sourcePage": 4,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "6",
+      "sourcePage": 4,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "8",
+      "sourcePage": 4,
+      "reason": "The PDF does not provide a complete four-option MCQ."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "9",
+      "sourcePage": 4,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "11",
+      "sourcePage": 5,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "12",
+      "sourcePage": 5,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "13",
+      "sourcePage": 5,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "14",
+      "sourcePage": 5,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "16",
+      "sourcePage": 5,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "17",
+      "sourcePage": 6,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Physiology",
+      "questionNumber": "18",
+      "sourcePage": 6,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "1",
+      "sourcePage": 6,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "3",
+      "sourcePage": 6,
+      "reason": "Elevated citrulline most strongly suggests argininosuccinate synthetase deficiency, which is absent from the options."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "4",
+      "sourcePage": 7,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "5",
+      "sourcePage": 7,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "6",
+      "sourcePage": 7,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "8",
+      "sourcePage": 7,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "9",
+      "sourcePage": 7,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "10",
+      "sourcePage": 8,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "11",
+      "sourcePage": 8,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "AMC",
+      "subject": "Biochemistry",
+      "questionNumber": "12",
+      "sourcePage": 8,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "1",
+      "sourcePage": 9,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "3",
+      "sourcePage": 9,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "4",
+      "sourcePage": 10,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "5",
+      "sourcePage": 10,
+      "reason": "The PDF does not provide a complete four-option MCQ."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "7",
+      "sourcePage": 10,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "9",
+      "sourcePage": 11,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "10",
+      "sourcePage": 11,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "11",
+      "sourcePage": 11,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "12",
+      "sourcePage": 12,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "14",
+      "sourcePage": 12,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "15",
+      "sourcePage": 12,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "16",
+      "sourcePage": 12,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "17",
+      "sourcePage": 13,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "18",
+      "sourcePage": 13,
+      "reason": "The PDF does not provide a complete four-option MCQ."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "19",
+      "sourcePage": 13,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "20",
+      "sourcePage": 13,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "21",
+      "sourcePage": 14,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "22",
+      "sourcePage": 14,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Anatomy",
+      "questionNumber": "23",
+      "sourcePage": 14,
+      "reason": "The PDF does not provide a complete four-option MCQ."
+    },
+    {
+      "college": "CMH Lahore",
+      "subject": "Physiology",
+      "questionNumber": "27",
+      "sourcePage": 15,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "questionNumber": "1",
+      "sourcePage": 16,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "questionNumber": "3",
+      "sourcePage": 16,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "questionNumber": "5",
+      "sourcePage": 17,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "questionNumber": "6",
+      "sourcePage": 17,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "questionNumber": "7",
+      "sourcePage": 18,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "questionNumber": "9",
+      "sourcePage": 18,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "questionNumber": "10",
+      "sourcePage": 18,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "questionNumber": "11",
+      "sourcePage": 19,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "2",
+      "sourcePage": 20,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "4",
+      "sourcePage": 21,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "6",
+      "sourcePage": 21,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "8",
+      "sourcePage": 22,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "9",
+      "sourcePage": 22,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "10",
+      "sourcePage": 22,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "11",
+      "sourcePage": 22,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "12",
+      "sourcePage": 23,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "13",
+      "sourcePage": 23,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "14",
+      "sourcePage": 23,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "15",
+      "sourcePage": 23,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "16",
+      "sourcePage": 24,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "17",
+      "sourcePage": 24,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "18",
+      "sourcePage": 24,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "20",
+      "sourcePage": 25,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "21",
+      "sourcePage": 25,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "22",
+      "sourcePage": 25,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "23",
+      "sourcePage": 25,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "24",
+      "sourcePage": 26,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "25",
+      "sourcePage": 26,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "26",
+      "sourcePage": 26,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "27",
+      "sourcePage": 26,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "questionNumber": "28",
+      "sourcePage": 27,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Anatomy",
+      "questionNumber": "1",
+      "sourcePage": 28,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Anatomy",
+      "questionNumber": "4",
+      "sourcePage": 29,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Anatomy",
+      "questionNumber": "5",
+      "sourcePage": 29,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Anatomy",
+      "questionNumber": "6",
+      "sourcePage": 29,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Anatomy",
+      "questionNumber": "7",
+      "sourcePage": 29,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Anatomy",
+      "questionNumber": "8",
+      "sourcePage": 30,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "1",
+      "sourcePage": 30,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "2",
+      "sourcePage": 30,
+      "reason": "The PDF does not provide a complete four-option MCQ."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "4",
+      "sourcePage": 31,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "5",
+      "sourcePage": 31,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "6",
+      "sourcePage": 31,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "7",
+      "sourcePage": 32,
+      "reason": "The PDF does not provide a complete four-option MCQ."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "8",
+      "sourcePage": 32,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "9",
+      "sourcePage": 32,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "10",
+      "sourcePage": 32,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "11",
+      "sourcePage": 33,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Physiology",
+      "questionNumber": "12",
+      "sourcePage": 33,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Biochemistry",
+      "questionNumber": "1",
+      "sourcePage": 33,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Biochemistry",
+      "questionNumber": "2",
+      "sourcePage": 34,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "WMC",
+      "subject": "Biochemistry",
+      "questionNumber": "3",
+      "sourcePage": 34,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "1",
+      "sourcePage": 35,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "2",
+      "sourcePage": 35,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "3",
+      "sourcePage": 35,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "4",
+      "sourcePage": 36,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "5",
+      "sourcePage": 36,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "6",
+      "sourcePage": 36,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "7",
+      "sourcePage": 36,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "8",
+      "sourcePage": 37,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "9",
+      "sourcePage": 37,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "10",
+      "sourcePage": 37,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "11",
+      "sourcePage": 37,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "12",
+      "sourcePage": 38,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "13",
+      "sourcePage": 38,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "14",
+      "sourcePage": 38,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "15",
+      "sourcePage": 38,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "16",
+      "sourcePage": 39,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "17",
+      "sourcePage": 39,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "18",
+      "sourcePage": 39,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "19",
+      "sourcePage": 39,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "20",
+      "sourcePage": 40,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "questionNumber": "21",
+      "sourcePage": 40,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "1",
+      "sourcePage": 40,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "2",
+      "sourcePage": 41,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "3",
+      "sourcePage": 41,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "4",
+      "sourcePage": 41,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "5",
+      "sourcePage": 41,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "6",
+      "sourcePage": 41,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "7",
+      "sourcePage": 42,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "8",
+      "sourcePage": 42,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "9",
+      "sourcePage": 42,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "10",
+      "sourcePage": 42,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "11",
+      "sourcePage": 43,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "12",
+      "sourcePage": 43,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "13",
+      "sourcePage": 43,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "14",
+      "sourcePage": 43,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "15",
+      "sourcePage": 44,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "16",
+      "sourcePage": 44,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "17",
+      "sourcePage": 44,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "18",
+      "sourcePage": 44,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "19",
+      "sourcePage": 45,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "20",
+      "sourcePage": 45,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Physiology",
+      "questionNumber": "21",
+      "sourcePage": 45,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Biochemistry",
+      "questionNumber": "1",
+      "sourcePage": 46,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "HITEC",
+      "subject": "Biochemistry",
+      "questionNumber": "2",
+      "sourcePage": 46,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "2",
+      "sourcePage": 47,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "3",
+      "sourcePage": 47,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "4",
+      "sourcePage": 48,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "5",
+      "sourcePage": 48,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "6",
+      "sourcePage": 48,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "7",
+      "sourcePage": 48,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "8",
+      "sourcePage": 49,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "9",
+      "sourcePage": 49,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "10",
+      "sourcePage": 49,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "11",
+      "sourcePage": 49,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "12",
+      "sourcePage": 50,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "13",
+      "sourcePage": 50,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "14",
+      "sourcePage": 50,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "15",
+      "sourcePage": 50,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "16",
+      "sourcePage": 50,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "17",
+      "sourcePage": 51,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "18",
+      "sourcePage": 51,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "19",
+      "sourcePage": 51,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "questionNumber": "20",
+      "sourcePage": 51,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "1",
+      "sourcePage": 52,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "2",
+      "sourcePage": 52,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "3",
+      "sourcePage": 52,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "4",
+      "sourcePage": 53,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "5",
+      "sourcePage": 53,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "6",
+      "sourcePage": 53,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "7",
+      "sourcePage": 53,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "8",
+      "sourcePage": 54,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "9",
+      "sourcePage": 54,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "10",
+      "sourcePage": 54,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "11",
+      "sourcePage": 54,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "12",
+      "sourcePage": 54,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "13",
+      "sourcePage": 55,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Physiology",
+      "questionNumber": "14",
+      "sourcePage": 55,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "1",
+      "sourcePage": 55,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "2",
+      "sourcePage": 56,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "3",
+      "sourcePage": 56,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "4",
+      "sourcePage": 56,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "5",
+      "sourcePage": 56,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "6",
+      "sourcePage": 56,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "7",
+      "sourcePage": 57,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "8",
+      "sourcePage": 57,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "9",
+      "sourcePage": 57,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "10",
+      "sourcePage": 57,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "CIMS BWP",
+      "subject": "Biochemistry",
+      "questionNumber": "11",
+      "sourcePage": 58,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "1",
+      "sourcePage": 59,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "2",
+      "sourcePage": 59,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "3",
+      "sourcePage": 59,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "4",
+      "sourcePage": 60,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "5",
+      "sourcePage": 60,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "6",
+      "sourcePage": 60,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "7",
+      "sourcePage": 60,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "8",
+      "sourcePage": 60,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "9",
+      "sourcePage": 61,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "10",
+      "sourcePage": 61,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "11",
+      "sourcePage": 61,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "12",
+      "sourcePage": 61,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "13",
+      "sourcePage": 62,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "14",
+      "sourcePage": 62,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "15",
+      "sourcePage": 62,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "16",
+      "sourcePage": 62,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "17",
+      "sourcePage": 63,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "18",
+      "sourcePage": 63,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "19",
+      "sourcePage": 63,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "20",
+      "sourcePage": 63,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "21",
+      "sourcePage": 64,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "22",
+      "sourcePage": 64,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "23",
+      "sourcePage": 64,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "24",
+      "sourcePage": 64,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "25",
+      "sourcePage": 64,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "26",
+      "sourcePage": 65,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "27",
+      "sourcePage": 65,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Anatomy",
+      "questionNumber": "28",
+      "sourcePage": 65,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "29",
+      "sourcePage": 66,
+      "reason": "The PDF does not provide a complete four-option MCQ."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "31",
+      "sourcePage": 66,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "32",
+      "sourcePage": 66,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "33",
+      "sourcePage": 66,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "34",
+      "sourcePage": 66,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "35",
+      "sourcePage": 67,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "36",
+      "sourcePage": 67,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "37",
+      "sourcePage": 67,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "38",
+      "sourcePage": 67,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "39",
+      "sourcePage": 67,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "40",
+      "sourcePage": 67,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "41",
+      "sourcePage": 68,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "42",
+      "sourcePage": 68,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "43",
+      "sourcePage": 68,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "44",
+      "sourcePage": 68,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "45",
+      "sourcePage": 68,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "46",
+      "sourcePage": 69,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "47",
+      "sourcePage": 69,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "48",
+      "sourcePage": 69,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "49",
+      "sourcePage": 69,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "50",
+      "sourcePage": 69,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "51",
+      "sourcePage": 69,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "52",
+      "sourcePage": 70,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "53",
+      "sourcePage": 70,
+      "reason": "The PDF does not provide a complete four-option MCQ."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "54",
+      "sourcePage": 70,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "55",
+      "sourcePage": 70,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Physiology",
+      "questionNumber": "56",
+      "sourcePage": 70,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "57",
+      "sourcePage": 71,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "58",
+      "sourcePage": 71,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "59",
+      "sourcePage": 71,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "60",
+      "sourcePage": 71,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "61",
+      "sourcePage": 72,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "62",
+      "sourcePage": 72,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "63",
+      "sourcePage": 72,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "64",
+      "sourcePage": 72,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "65",
+      "sourcePage": 72,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "66",
+      "sourcePage": 73,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "67",
+      "sourcePage": 73,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "68",
+      "sourcePage": 73,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "69",
+      "sourcePage": 73,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "70",
+      "sourcePage": 74,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "71",
+      "sourcePage": 74,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "72",
+      "sourcePage": 74,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "73",
+      "sourcePage": 74,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "74",
+      "sourcePage": 74,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "75",
+      "sourcePage": 75,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "76",
+      "sourcePage": 75,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "77",
+      "sourcePage": 75,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "78",
+      "sourcePage": 75,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "79",
+      "sourcePage": 76,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "80",
+      "sourcePage": 76,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "81",
+      "sourcePage": 76,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "82",
+      "sourcePage": 76,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "83",
+      "sourcePage": 76,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "QIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "84",
+      "sourcePage": 77,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "1",
+      "sourcePage": 77,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "2",
+      "sourcePage": 77,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "3",
+      "sourcePage": 78,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "4",
+      "sourcePage": 78,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "5",
+      "sourcePage": 78,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "6",
+      "sourcePage": 78,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "7",
+      "sourcePage": 78,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "8",
+      "sourcePage": 78,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "9",
+      "sourcePage": 79,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "10",
+      "sourcePage": 79,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "11",
+      "sourcePage": 79,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "12",
+      "sourcePage": 79,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "13",
+      "sourcePage": 79,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "14",
+      "sourcePage": 79,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "15",
+      "sourcePage": 80,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "16",
+      "sourcePage": 80,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "17",
+      "sourcePage": 80,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "18",
+      "sourcePage": 80,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "19",
+      "sourcePage": 80,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "20",
+      "sourcePage": 81,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "21",
+      "sourcePage": 81,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "22",
+      "sourcePage": 81,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "23",
+      "sourcePage": 81,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "24",
+      "sourcePage": 81,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "25",
+      "sourcePage": 82,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "26",
+      "sourcePage": 82,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "27",
+      "sourcePage": 82,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Anatomy",
+      "questionNumber": "28",
+      "sourcePage": 82,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "29",
+      "sourcePage": 83,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "30",
+      "sourcePage": 83,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "31",
+      "sourcePage": 83,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "32",
+      "sourcePage": 83,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "33",
+      "sourcePage": 83,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "34",
+      "sourcePage": 84,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "35",
+      "sourcePage": 84,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "36",
+      "sourcePage": 84,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "37",
+      "sourcePage": 84,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "38",
+      "sourcePage": 84,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "39",
+      "sourcePage": 84,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "40",
+      "sourcePage": 85,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "41",
+      "sourcePage": 85,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "42",
+      "sourcePage": 85,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "43",
+      "sourcePage": 85,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "44",
+      "sourcePage": 85,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "45",
+      "sourcePage": 86,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "46",
+      "sourcePage": 86,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "47",
+      "sourcePage": 86,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "48",
+      "sourcePage": 86,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "49",
+      "sourcePage": 86,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Physiology",
+      "questionNumber": "50",
+      "sourcePage": 87,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "56",
+      "sourcePage": 87,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "57",
+      "sourcePage": 87,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "58",
+      "sourcePage": 87,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "59",
+      "sourcePage": 88,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "60",
+      "sourcePage": 88,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "61",
+      "sourcePage": 88,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "62",
+      "sourcePage": 88,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "63",
+      "sourcePage": 88,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "64",
+      "sourcePage": 89,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "65",
+      "sourcePage": 89,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "66",
+      "sourcePage": 89,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "67",
+      "sourcePage": 89,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "68",
+      "sourcePage": 89,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "69",
+      "sourcePage": 89,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "71",
+      "sourcePage": 90,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "72",
+      "sourcePage": 90,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "73",
+      "sourcePage": 90,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "74",
+      "sourcePage": 90,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "75",
+      "sourcePage": 90,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "76",
+      "sourcePage": 90,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "77",
+      "sourcePage": 91,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "78",
+      "sourcePage": 91,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "79",
+      "sourcePage": 91,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "80",
+      "sourcePage": 91,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "81",
+      "sourcePage": 91,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "82",
+      "sourcePage": 91,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "83",
+      "sourcePage": 92,
+      "reason": "Awaiting independent answer check."
+    },
+    {
+      "college": "KIMS",
+      "subject": "Biochemistry",
+      "questionNumber": "84",
+      "sourcePage": 92,
+      "reason": "Awaiting independent answer check."
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "total_questions": 372,
+  "pdf_pages_covered": "1–77",
+  "colleges_summary": [
+    {
+      "name": "AMC",
+      "total_questions": 24,
+      "subjects": [
+        {
+          "name": "Anatomy",
+          "count": 8,
+          "page_range": "1–3",
+          "subtitles": []
+        },
+        {
+          "name": "Physiology",
+          "count": 6,
+          "page_range": "3–4",
+          "subtitles": []
+        },
+        {
+          "name": "Biochemistry",
+          "count": 10,
+          "page_range": "4–6",
+          "subtitles": []
+        }
+      ]
+    },
+    {
+      "name": "CMH LHR",
+      "total_questions": 41,
+      "subjects": [
+        {
+          "name": "Anatomy",
+          "count": 19,
+          "page_range": "7–11",
+          "subtitles": []
+        },
+        {
+          "name": "Physiology",
+          "count": 7,
+          "page_range": "11–12",
+          "subtitles": []
+        },
+        {
+          "name": "Biochemistry",
+          "count": 15,
+          "page_range": "13–15",
+          "subtitles": []
+        }
+      ]
+    },
+    {
+      "name": "CKMC",
+      "total_questions": 23,
+      "subjects": [
+        {
+          "name": "Anatomy",
+          "count": 23,
+          "page_range": "16–20",
+          "subtitles": [
+            "Head & Neck (Set 2)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CIMS Multan",
+      "total_questions": 29,
+      "subjects": [
+        {
+          "name": "Anatomy",
+          "count": 29,
+          "page_range": "21–27",
+          "subtitles": []
+        }
+      ]
+    },
+    {
+      "name": "WMC",
+      "total_questions": 50,
+      "subjects": [
+        {
+          "name": "Anatomy",
+          "count": 20,
+          "page_range": "28–32",
+          "subtitles": [
+            "Anatomy MCQs"
+          ]
+        },
+        {
+          "name": "Physiology",
+          "count": 16,
+          "page_range": "32–35",
+          "subtitles": [
+            "Physiology MCQs"
+          ]
+        },
+        {
+          "name": "Biochemistry",
+          "count": 14,
+          "page_range": "36–38",
+          "subtitles": [
+            "Biochemistry MCQs"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HITEC",
+      "total_questions": 39,
+      "subjects": [
+        {
+          "name": "Anatomy",
+          "count": 39,
+          "page_range": "39–45",
+          "subtitles": []
+        }
+      ]
+    },
+    {
+      "name": "CIMS BWP",
+      "total_questions": 41,
+      "subjects": [
+        {
+          "name": "Anatomy",
+          "count": 20,
+          "page_range": "46–50",
+          "subtitles": [
+            "Anatomy MCQs"
+          ]
+        },
+        {
+          "name": "Physiology",
+          "count": 13,
+          "page_range": "50–53",
+          "subtitles": [
+            "Physiology MCQs"
+          ]
+        },
+        {
+          "name": "Biochemistry",
+          "count": 8,
+          "page_range": "53–54",
+          "subtitles": [
+            "Biochemistry MCQs"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "QIMS",
+      "total_questions": 84,
+      "subjects": [
+        {
+          "name": "Anatomy",
+          "count": 28,
+          "page_range": "55–60",
+          "subtitles": []
+        },
+        {
+          "name": "Physiology",
+          "count": 28,
+          "page_range": "60–64",
+          "subtitles": [
+            "Physiology MCQs"
+          ]
+        },
+        {
+          "name": "Biochemistry",
+          "count": 28,
+          "page_range": "65–69",
+          "subtitles": [
+            "Biochemistry MCQs"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KIMS",
+      "total_questions": 41,
+      "subjects": [
+        {
+          "name": "Anatomy",
+          "count": 26,
+          "page_range": "70–74",
+          "subtitles": []
+        },
+        {
+          "name": "Physiology",
+          "count": 5,
+          "page_range": "75",
+          "subtitles": []
+        },
+        {
+          "name": "Biochemistry",
+          "count": 10,
+          "page_range": "76–77",
+          "subtitles": []
+        }
+      ]
+    }
+  ],
+  "flagged_items": [
+    {
+      "id": "CMH-ANAT-09",
+      "college": "CMH LHR",
+      "subject": "Anatomy",
+      "q_no": 9,
+      "pdf_page": 8,
+      "pdf_marked": "A",
+      "verified_answer": "A",
+      "status": "needs_review",
+      "flag_reason": "Protein-secreting cells classically have RER/Golgi, but Mitochondria is marked among provided choices."
+    },
+    {
+      "id": "CMH-ANAT-13",
+      "college": "CMH LHR",
+      "subject": "Anatomy",
+      "q_no": 13,
+      "pdf_page": 9,
+      "pdf_marked": "B",
+      "verified_answer": "B",
+      "status": "needs_review",
+      "flag_reason": "Embryologically, stapes footplate is otic capsule derived while head/crura are neural crest 2nd arch; PDF marks footplate of stapes."
+    },
+    {
+      "id": "CKMC-ANAT-06",
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "q_no": 6,
+      "pdf_page": 17,
+      "pdf_marked": "A",
+      "verified_answer": "C",
+      "status": "needs_review",
+      "flag_reason": "PDF marked A (Stylomastoid foramen), which is anatomically erroneous because hyperacusis & chorda tympani branch within canal; true answer is C (Geniculate ganglion)."
+    },
+    {
+      "id": "CKMC-ANAT-22",
+      "college": "CKMC",
+      "subject": "Anatomy",
+      "q_no": 22,
+      "pdf_page": 20,
+      "pdf_marked": "A",
+      "verified_answer": "B",
+      "status": "needs_review",
+      "flag_reason": "PDF mark A is medically incorrect; handwritten annotation in PDF and anatomy textbooks confirm B (Under hyoglossus)."
+    },
+    {
+      "id": "MULTAN-ANAT-13",
+      "college": "CIMS Multan",
+      "subject": "Anatomy",
+      "q_no": 13,
+      "pdf_page": 23,
+      "pdf_marked": "A",
+      "verified_answer": "A",
+      "status": "needs_review",
+      "flag_reason": "Embryological standard is maxillary with medial nasal prominence fusion failure; exam key marked A."
+    },
+    {
+      "id": "HITEC-ANAT-16",
+      "college": "HITEC",
+      "subject": "Anatomy",
+      "q_no": 16,
+      "pdf_page": 41,
+      "pdf_marked": "a",
+      "verified_answer": "a",
+      "status": "needs_review",
+      "flag_reason": "Looking downward and inward is the clinical action / test of SO, but question states 'due to paralysis of'; PDF marks a."
+    },
+    {
+      "id": "BWP-ANAT-10",
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "q_no": 10,
+      "pdf_page": 48,
+      "pdf_marked": "A",
+      "verified_answer": "A",
+      "status": "needs_review",
+      "flag_reason": "PDF marked A (Medial pterygoid) while Masseter is circled in handwritten ink on the PDF page."
+    },
+    {
+      "id": "BWP-ANAT-14",
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "q_no": 14,
+      "pdf_page": 49,
+      "pdf_marked": "A",
+      "verified_answer": "A",
+      "status": "needs_review",
+      "flag_reason": "Classic anatomical bed is superior constrictor; PDF key marks Palatopharyngeus forming posterior pillar."
+    },
+    {
+      "id": "BWP-ANAT-15",
+      "college": "CIMS BWP",
+      "subject": "Anatomy",
+      "q_no": 15,
+      "pdf_page": 49,
+      "pdf_marked": "D",
+      "verified_answer": "D",
+      "status": "provisional",
+      "flag_reason": ""
+    },
+    {
+      "id": "QIMS-PHYS-31",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 31,
+      "pdf_page": 60,
+      "pdf_marked": "a, d",
+      "verified_answer": "d",
+      "status": "needs_review",
+      "flag_reason": "Multiple marks in PDF: Both options a and d have green ticks. Option d is the core physiological concept."
+    },
+    {
+      "id": "QIMS-PHYS-34",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 34,
+      "pdf_page": 61,
+      "pdf_marked": "a",
+      "verified_answer": "a",
+      "status": "needs_review",
+      "flag_reason": "Definitional discrepancy: astigmatism is non-spherical curvature, whereas option a defines hyperopia."
+    },
+    {
+      "id": "QIMS-PHYS-40",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 40,
+      "pdf_page": 62,
+      "pdf_marked": "a, b",
+      "verified_answer": "a",
+      "status": "needs_review",
+      "flag_reason": "Multiple correct answers: Both Somatostatin and Acute hyperglycemia carry green checkmarks in the PDF."
+    },
+    {
+      "id": "QIMS-PHYS-41",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 41,
+      "pdf_page": 62,
+      "pdf_marked": "b",
+      "verified_answer": "b",
+      "status": "needs_review",
+      "flag_reason": "Both conditions feature stunted growth; cretinism has mental retardation. Marked b in PDF."
+    },
+    {
+      "id": "QIMS-PHYS-44",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 44,
+      "pdf_page": 62,
+      "pdf_marked": "d",
+      "verified_answer": "c",
+      "status": "needs_review",
+      "flag_reason": "Physiological discrepancy: If TSH rises upon TRH, pituitary works and hypothalamus is defective (c), but PDF marked d."
+    },
+    {
+      "id": "QIMS-PHYS-47",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 47,
+      "pdf_page": 63,
+      "pdf_marked": "d",
+      "verified_answer": "d",
+      "status": "provisional",
+      "flag_reason": ""
+    },
+    {
+      "id": "QIMS-PHYS-49",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 49,
+      "pdf_page": 63,
+      "pdf_marked": "a",
+      "verified_answer": "a",
+      "status": "needs_review",
+      "flag_reason": "Textbook physiology emphasizes corpus luteum steroid negative feedback (d); PDF key marks option a."
+    },
+    {
+      "id": "QIMS-PHYS-54",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 54,
+      "pdf_page": 64,
+      "pdf_marked": "a",
+      "verified_answer": "a",
+      "status": "needs_review",
+      "flag_reason": "While estrogen primarily inhibits osteoclasts via OPG, PDF key marks osteoblast stimulation (a)."
+    },
+    {
+      "id": "QIMS-PHYS-55",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 55,
+      "pdf_page": 64,
+      "pdf_marked": "c",
+      "verified_answer": "d",
+      "status": "needs_review",
+      "flag_reason": "Progesterone antagonists cause immediate menstruation; hCG prevents menstruation. PDF erroneously marked c."
+    },
+    {
+      "id": "QIMS-PHYS-56",
+      "college": "QIMS",
+      "subject": "Physiology",
+      "q_no": 56,
+      "pdf_page": 64,
+      "pdf_marked": "c",
+      "verified_answer": "d",
+      "status": "needs_review",
+      "flag_reason": "Medical paradox: low estrogen for 5 yrs causes osteoporosis; anabolic steroids (d) preserve bone density. PDF marked c."
+    }
+  ]
+}

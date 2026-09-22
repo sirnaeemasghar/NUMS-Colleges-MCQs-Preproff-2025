@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Responsive study website for NUMS Block 6 Preprof MCQs 2025 covering Anatomy, Physiology, and Biochemistry across 9 medical colleges.">
+  <title>NUMS Block 6 Preprof MCQs 2025 | Medical Study Platform</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Top Application Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand" id="brandLogo" onclick="window.location.reload()">
+        <div class="brand-icon">⚕️</div>
+        <div class="brand-title">
+          <span>NUMS Preprof MCQs</span>
+          <span class="brand-badge">Block 6 &bull; 2025</span>
+        </div>
+      </div>
+
+      <nav class="nav-links" aria-label="Main Navigation">
+        <button class="nav-btn active" id="navHome">
+          🏛️ Colleges Hub
+        </button>
+        <button class="nav-btn" id="navReview">
+          🔍 Verification & Review
+        </button>
+        <button class="nav-btn" id="navAudit">
+          📊 Import Audit (77 Pages)
+        </button>
+        <button class="theme-toggle-btn" id="themeToggleBtn" aria-label="Toggle Color Theme" title="Toggle Light/Dark Theme">
+          🌙
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Navigation Breadcrumbs -->
+  <nav class="breadcrumbs-bar" aria-label="Breadcrumb Trail">
+    <div class="breadcrumbs-inner" id="breadcrumbsNav">
+      <!-- Breadcrumbs injected dynamically by app.js -->
+    </div>
+  </nav>
+
+  <!-- Main View Container -->
+  <main class="main-content" id="mainContentContainer" role="main">
+    <!-- Dynamic views rendered by app.js -->
+  </main>
+
+  <!-- Application Footer -->
+  <footer style="background-color: var(--bg-surface); border-top: 1px solid var(--border-color); padding: 2rem 1.25rem; font-size: 0.85rem; color: var(--text-muted); margin-top: auto;">
+    <div style="max-width: 1280px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+      <div>
+        <div style="font-weight: 700; color: var(--text-primary);">NUMS Block 6 Preprofessional Examination MCQs Platform</div>
+        <div style="margin-top: 0.25rem;">
+          372 authentic past examination questions from AMC, CMH LHR, CKMC, CIMS Multan, WMC, HITEC, CIMS BWP, QIMS, and KIMS.
+        </div>
+      </div>
+      <div style="display: flex; gap: 1rem; align-items: center;">
+        <span>Reference Standards: <em>Guyton &amp; Hall (14th ed.)</em>, <em>Snell's Anatomy (10th ed.)</em>, <em>Harper's Biochemistry (32nd ed.)</em></span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Core Scripts -->
+  <script src="js/questions-data.js"></script>
+  <script src="js/review.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
